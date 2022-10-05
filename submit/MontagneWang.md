@@ -7,4 +7,4 @@ https://github.com/MontagneWang/Weather
 
 # 个人信息
 姓名：山遥路远  
-联系方式： mailto:ling.vc@foxmail.com
+联系方式： ling.vc@foxmail.com
