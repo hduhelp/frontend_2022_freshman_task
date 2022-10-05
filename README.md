@@ -1,6 +1,6 @@
 # frontend_2022_freshman_task
 
-杭电助手前端2021新人考核小任务汇总仓库
+2022 杭助前端招新小任务提交仓库
 
 - fork本仓库
 - 在仓库下 /submit 目录下新建一个和你 github 用户名同名的 md 文件，如 asjdf.md
